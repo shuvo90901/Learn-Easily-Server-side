@@ -7,104 +7,62 @@
         "title": "JavaScript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything else",
         "rating": 4.5,
         "enrolled": "2k",
-        "details": "fhgf"
+        "price": 3500,
+        "details": "Speed. Since JavaScript is an 'interpreted' language, it reduces the time required by other programming languages like Java for compilation.Simplicity. JavaScript is easy to understand and learnPopularityInteroperabilityServer LoadRich Interfaces.Extended Functionality.Versatility."
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab",
-        "others_info": {
-            "is_todays_pick": false,
-            "is_trending": true
-        },
         "name": "Python",
         "img": "https://storage.needpix.com/rsynced_images/language-2024210_1280.png",
         "id": "02",
         "rating": 4.5,
         "enrolled": "3k",
-        "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-        "author": {
-            "name": "Jimmy Dane",
-            "published_date": "2022-08-24 17:27:34"
-        },
-        "details": "tuesday"
+        "title": "Python is a popular programming language. It was created by Guido van Rossum, and released in 1991. It is used for: web development (server-side)",
+        "price": 3000,
+        "details": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming"
     },
     {
         "_id": "0282e0e58a5c404fbd15211c2a",
-        "others_info": {
-            "is_todays_pick": false,
-            "is_trending": true
-        },
         "name": "Java",
         "img": "https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png",
         "id": "03",
         "rating": 4.5,
         "enrolled": "1k",
-        "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-        "author": {
-            "name": "Jimmy Dane",
-            "published_date": "2022-08-24 17:27:34"
-        },
-        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        "details": "Wednesday"
+        "title": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.",
+        "price": 2500,
+        "details": "Java is easy to learn. Java was designed to be easy to use and is therefore easy to write, compile, debug, and learn than other programming languages.Java is object-oriented. This allows you to create modular programs and reusable code.Java is platform-independent."
     },
     {
         "_id": "0282e0e58a5c404fbd15261fc2a",
-        "others_info": {
-            "is_todays_pick": false,
-            "is_trending": true
-        },
         "name": "Kotlin",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png",
         "id": "04",
         "rating": 4.5,
         "enrolled": "2.5k",
-        "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-        "author": {
-            "name": "Jimmy Dane",
-            "published_date": "2022-08-24 17:27:34"
-        },
-        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        "details": "Wednesday"
+        "title": "Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin's standard library depends on the Java Class Library, but type inference allows its syntax to be more concise.",
+        "price": 3400,
+        "details": "Kotlin removes the boilerplate code, greatly eliminates possible errors. It possesses features like delegations, late initializations. It also addresses type safety in lists, which is a major problem in Java. It was very easy to type a wrongly typed variable to a list before generics came along"
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c",
-        "others_info": {
-            "is_todays_pick": false,
-            "is_trending": true
-        },
         "name": "PHP",
         "img": "https://w7.pngwing.com/pngs/751/3/png-transparent-logo-php-html-others-text-trademark-logo-thumbnail.png",
         "id": "05",
         "rating": 4.5,
         "enrolled": "3.5k",
-        "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-        "author": {
-            "name": "Jimmy Dane",
-            "published_date": "2022-08-24 17:27:34"
-        },
-        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        "details": "Wednesday"
+        "title": "PHP is a general-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1993. The PHP reference implementation is now produced by The PHP Group.",
+        "price": 4500,
+        "details": "Why Use PHP? Main Advantages and Disadvantages Large choice of available specialists.Plentiful documentation.Improved loading speed. Wide selection of databases. Inexpensive open-source software.Cheaper hosting services.Excellent combinability with HTML.Good flexibility."
     },
     {
         "_id": "0282e0e58a54fbd15261f11c",
-        "others_info": {
-            "is_todays_pick": false,
-            "is_trending": true
-        },
         "name": "Swift",
         "img": "https://www.remobjects.com/images/product-logos/language-swift-1024.png",
         "id": "06",
         "rating": 4.5,
         "enrolled": "5k",
-        "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-        "author": {
-            "name": "Jimmy Dane",
-            "published_date": "2022-08-24 17:27:34"
-        },
-        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        "details": "Wednesday"
+        "title": "Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. and the open-source community.",
+        "price": 3600,
+        "details": "With Swift, variables are initialized before use, arrays and integers are checked for overflow, and memory is automatically managed. Developers can also easily see any code errors, reducing the time spent on debugging and removing the risk of low-quality code"
     }
 ]
