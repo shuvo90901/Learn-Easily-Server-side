@@ -1,0 +1,112 @@
+[
+    {
+        "_id": "0282e0e58a54fbd15261f11c2ab6",
+        "name": "JavaScript",
+        "img": "https://static.javatpoint.com/images/javascript/javascript_logo.png",
+        "id": "01",
+        "title": "JavaScript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything else",
+        "rating": 4.5,
+        "enrolled": "2k",
+        "details": "fhgf"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "name": "Python",
+        "img": "https://storage.needpix.com/rsynced_images/language-2024210_1280.png",
+        "id": "02",
+        "rating": 4.5,
+        "enrolled": "3k",
+        "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+        "author": {
+            "name": "Jimmy Dane",
+            "published_date": "2022-08-24 17:27:34"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        "details": "Wednesday"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15211c2a",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "name": "Java",
+        "img": "https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png",
+        "id": "03",
+        "rating": 4.5,
+        "enrolled": "1k",
+        "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+        "author": {
+            "name": "Jimmy Dane",
+            "published_date": "2022-08-24 17:27:34"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        "details": "Wednesday"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261fc2a",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "name": "Kotlin",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png",
+        "id": "04",
+        "rating": 4.5,
+        "enrolled": "2.5k",
+        "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+        "author": {
+            "name": "Jimmy Dane",
+            "published_date": "2022-08-24 17:27:34"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        "details": "Wednesday"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "name": "PHP",
+        "img": "https://w7.pngwing.com/pngs/751/3/png-transparent-logo-php-html-others-text-trademark-logo-thumbnail.png",
+        "id": "05",
+        "rating": 4.5,
+        "enrolled": "3.5k",
+        "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+        "author": {
+            "name": "Jimmy Dane",
+            "published_date": "2022-08-24 17:27:34"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        "details": "Wednesday"
+    },
+    {
+        "_id": "0282e0e58a54fbd15261f11c",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "name": "Swift",
+        "img": "https://www.remobjects.com/images/product-logos/language-swift-1024.png",
+        "id": "06",
+        "rating": 4.5,
+        "enrolled": "5k",
+        "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+        "author": {
+            "name": "Jimmy Dane",
+            "published_date": "2022-08-24 17:27:34"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        "details": "Wednesday"
+    }
+]
